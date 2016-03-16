@@ -1,0 +1,2 @@
+# leminhtai
+phần cứng + code
